@@ -388,7 +388,7 @@ body {
 }
 
 .footer__items {
-   display: flex;
+   display: flex !important;
    justify-content: space-between;
 }
 
